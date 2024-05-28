@@ -1,0 +1,10 @@
+<mvc:View controllerName="logaligroup.invoices.controller.MainVew"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Text id="_IDGenText1" text="Hello a todes madafackars"></Text>
+        </content>
+    </Page>
+
+</mvc:View>
